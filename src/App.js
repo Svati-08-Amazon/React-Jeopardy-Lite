@@ -21,7 +21,7 @@ function App() {
         <Route path="/welcome/:name" component={Welcome} />
         <Route path="/jeopardy" component={Jeopardy} />
         <Route>
-          <div>404 page</div>
+          <div>404 Page</div>
         </Route>
       </Switch>
     </div>
